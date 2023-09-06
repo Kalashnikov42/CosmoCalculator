@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Glegoo&family=Roboto:wght@300&family=Teko&family=Tilt+Prism&display=swap" rel="stylesheet">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <style>
+         /* Global Styles */
+ body {
+    font-family: 'Teko', sans-serif;
+    background-color:black;
+    margin: 0;
+}
+
+/* Header Styles */
+h1 {
+    font-size: 45px;
+    color: #dfdddd;
+    text-align: center;
+}
+
+/* Main Content Styles */
+p {
+    font-size: 20px;
+    line-height: 1.5;
+    color: #e7e1e1;
+}
+
+/* Image Styles */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Aside Module Styles */
+.aside_module {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    margin: 20px 0;
+    padding: 20px;
+}
+
+.aside_module h2 {
+    font-size: 24px;
+    color: #e7e1e1;
+}
+
+/* Numbered Grid Styles */
+.numbered_grid {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.grid_item {
+    flex-basis: calc(33.33% - 20px);
+    margin-right: 40px;
+    margin-bottom: 40px;
+    background-color: black;
+    padding: 20px;
+    border: 1px solid #ddd;
+}
+
+.number_count {
+    font-size: 36px;
+    font-weight: bold;
+    color: #333;
+}
+
+.numbered_grid_title {
+    font-size: 18px;
+    color: #333;
+}
+
+.thing_fact {
+    font-size: 16px;
+    color: #666;
+}
+
+/* Carousel Styles */
+.carousel_module_container {
+    margin: 20px 0;
+    overflow: hidden;
+}
+
+/* Pop Culture Styles */
+.pop_culture {
+    margin-top: 20px;
+}
+
+/* Kid-Friendly Mercury Styles */
+.single_teaser {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.image_col img {
+    max-width: 100%;
+    height: auto;
+}
+
+.text_col {
+    margin-left: 20px;
+}
+
+.title {
+    font-size: 24px;
+    color: #333;
+}
+
+.description {
+    font-size: 16px;
+    color: #666;
+}
+    </style>   
+    <title>CosmoCalculator | For The Space Geeks</title>
+</head>
+<body>
+    
+    <h1>Mercury- The First Rock</h1>
+    <p>From the surface of Mercury, the Sun would appear more than three times as large as it does when viewed from Earth, and the sunlight would be as much as seven times brighter. Despite its proximity to the Sun, Mercury is not the hottest planet in our solar system &ndash; that title belongs to nearby Venus, thanks to its dense atmosphere.</p>
+
+    <p>Because of Mercury&#39;s elliptical &ndash; egg-shaped &ndash; orbit, and sluggish rotation, the Sun appears to rise briefly, set, and rise again from some parts of the planet&#39;s surface. The same thing happens in reverse at sunset.</p>
+    
+    <figure class='mb_iframe_container column-width'>
+    <iframe allow='' class='mb_iframe' frameborder='0' src='https://eyes.nasa.gov/apps/solar-system/#/mercury?embed=true&amp;amp;logo=false' style='height: 600px;' title=''></iframe>
+    </figure>
+    <span class="mb_anchor_title">Ten Things to Know About Mercury<a class="mb_anchor" name="ten_things_to_know_about_mercury"></a></span><p></p>
+    
+    <section class='clearfix numbered_grid_module Column-width no-bottom-margin'>
+    <header>
+    <h2>
+    10 Need-to-Know Things About Mercury
+    </h2>
+    </header>
+    <section class='numbered_grid'>
+    <div class='grid_item'>
+    <div class='number_count'>
+    1
+    </div>
+    <h3 class='numbered_grid_title'>
+    Small World
+    </h3>
+    <div class='thing_fact'>
+    <p>Mercury is the smallest planet in our solar system &ndash; only slightly larger than Earth&#39;s Moon.&nbsp;</p>
+    
+    </div>
+    </div>
+    <div class='grid_item'>
+    <div class='number_count'>
+    2
+    </div>
+    <h3 class='numbered_grid_title'>
+    Inside Track
+    </h3>
+    <div class='thing_fact'>
+    <p>Mercury is the planet that orbits the closest&nbsp;to the Sun.</p>
+    
+    </div>
+    </div>
+    <div class='grid_item'>
+    <div class='number_count'>
+    3
+    </div>
+    <h3 class='numbered_grid_title'>
+    Fastest Planet
+    </h3>
+    <div class='thing_fact'>
+    <p>Mercury is the fastest planet in our solar system &ndash; traveling through space at nearly 29 miles (47 kilometers) per second. The closer a planet is to the Sun, the faster it travels. Since Mercury is the fastest planet and has the shortest distance to travel around the Sun, it has the shortest year of all the planets in our solar system &ndash; 88 days.</p>
+    
+    </div>
+    </div>
+    <div class='grid_item image_item' style='background-image: url(&#39;/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaVZTIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--970b869744a5c9a5a80122d477fc350b8ae09437/Mercury_MESSENGER_Unseen_Side-640x480.jpg?disposition=inline&#39;);'>
+    <h3 class='numbered_grid_title'>
+    First Look at Mercury&#39;s Previously Unseen Side
+    </h3>
+    </div>
+    <div class='grid_item'>
+    <div class='number_count'>
+    4
+    </div>
+    <h3 class='numbered_grid_title'>
+    Rough Surface
+    </h3>
+    <div class='thing_fact'>
+    <p>Mercury is a rocky planet, also known as a terrestrial planet. Mercury has a solid, cratered surface, much like the Earth&#39;s moon.</p>
+    
+    </div>
+    </div>
+    <div class='grid_item'>
+    <div class='number_count'>
+    5
+    </div>
+    <h3 class='numbered_grid_title'>
+    Can&#39;t Breathe There
+    </h3>
+    <div class='thing_fact'>
+    <p>Mercury&#39;s thin atmosphere, or exosphere, is composed mostly of oxygen (O2), sodium (Na), hydrogen (H2), helium (He), and potassium (K).&nbsp;</p>
+    
+    </div>
+    </div>
+    <div class='grid_item'>
+    <div class='number_count'>
+    6
+    </div>
+    <h3 class='numbered_grid_title'>
+    Moonless
+    </h3>
+    <div class='thing_fact'>
+    <p>Mercury has no moons.&nbsp;</p>
+    
+    </div>
+    </div>
+    <div class='grid_item'>
+    <div class='number_count'>
+    7
+    </div>
+    <h3 class='numbered_grid_title'>
+    Ringless
+    </h3>
+    <div class='thing_fact'>
+    <p>There are no rings around Mercury.&nbsp;</p>
+    
+    </div>
+    </div>
+    <div class='grid_item'>
+    <div class='number_count'>
+    8
+    </div>
+    <h3 class='numbered_grid_title'>
+    Tough Place for Life
+    </h3>
+    <div class='thing_fact'>
+    <p>It is unlikely that life as we know it&nbsp;could survive on Mercury due to solar radiation, and extreme temperatures.</p>
+    
+    </div>
+    </div>
+    <div class='grid_item'>
+    <div class='number_count'>
+    9
+    </div>
+    <h3 class='numbered_grid_title'>
+    Big Sun
+    </h3>
+    <div class='thing_fact'>
+    <p>Standing on Mercury&#39;s surface at its closest approach&nbsp;to the Sun, our star would appear more than three times larger than it does on Earth.</p>
+    
+    </div>
+    </div>
+    <div class='grid_item'>
+    <div class='number_count'>
+    10
+    </div>
+    <h3 class='numbered_grid_title'>
+    Robotic Visitors
+    </h3>
+    <div class='thing_fact'>
+    <p>Two NASA missions have explored Mercury: Mariner 10 was the first to fly by Mercury, and MESSENGER was the first to orbit. ESA&#39;s BepiColombo is on its way&nbsp;to Mercury.</p>
+    
+    </div>
+    </div>
+    <div class='grid_item image_item' style='background-image: url(&#39;/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaVpTIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--728798720f4516cb1b1d95e952e5de5fc232e728/Mercury_Mariner-10-640x480.jpg?disposition=inline&#39;);'>
+    <h3 class='numbered_grid_title'>
+    Mariner 10&#39;s First Image of Mercury
+    </h3>
+    </div>
+    </section>
+    </section>
+    
+    <section class='carousel_module_container full-bleed'>
+    <link rel="stylesheet" media="screen" href="/assets/vendor/masterslider/style/masterslider-09f83bbc9395daae7bac52a588b640a76d7b852eb1715a2c629068606cd199aa.css" />
+    <link rel="stylesheet" media="screen" href="/assets/vendor/masterslider/style/default/style-aef6ba0cdc588ac4394dca485827af38765be70f92e82709463f7a0242af9c3e.css" />
+    <section data-react-class="ImageCarousel" data-react-props="{&quot;items&quot;:[{&quot;id&quot;:72,&quot;image_file_name&quot;:&quot;mercury_carousel_4.jpg&quot;,&quot;title&quot;:&quot;Hyper Vent-ilating&quot;,&quot;body&quot;:&quot;This series of oblique images highlight the wall and exterior of the beautiful volcanic vent located to the northeast of Rachmaninoff basin and west of Copland crater. Image Credit: NASA/Johns Hopkins University Applied Physics Laboratory/Carnegie Institution of Washington&quot;,&quot;link_text&quot;:&quot;&quot;,&quot;link&quot;:&quot;&quot;,&quot;more_link_text&quot;:&quot;&quot;,&quot;more_link&quot;:&quot;&quot;,&quot;status&quot;:1,&quot;created_at&quot;:&quot;2017-12-04T18:27:42.055-08:00&quot;,&quot;updated_at&quot;:&quot;2018-01-23T13:14:24.229-08:00&quot;,&quot;theme&quot;:null,&quot;textbox_category_title&quot;:&quot;&quot;,&quot;textbox_brand_title&quot;:null,&quot;feature_type&quot;:&quot;&quot;,&quot;image_alt&quot;:&quot;&quot;,&quot;webm_video_file_name&quot;:null,&quot;mp4_video_file_name&quot;:null,&quot;ogv_video_file_name&quot;:null,&quot;embed_video&quot;:&quot;&quot;,&quot;mobile_image_file_name&quot;:null,&quot;body_class&quot;:&quot;&quot;,&quot;schedule_date&quot;:null,&quot;link_target&quot;:null,&quot;more_link_target&quot;:null,&quot;mobile_video_file_name&quot;:null,&quot;short_description&quot;:null,&quot;feature_links&quot;:[],&quot;category_names&quot;:&quot;mercury_carousel left box&quot;,&quot;mobile_video_src&quot;:null,&quot;webp_image_src&quot;:null,&quot;image_src&quot;:&quot;/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbmhWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ef383ee97d9ad09399213195c43daed1e90666fc/mercury_carousel_4.jpg?disposition=inline&quot;,&quot;ogv_video_src&quot;:null,&quot;mp4_video_src&quot;:null,&quot;webm_video_src&quot;:null},{&quot;id&quot;:73,&quot;image_file_name&quot;:&quot;carousel_mercury_2.jpg&quot;,&quot;title&quot;:&quot;Unmasking the Secrets of Mercury &quot;,&quot;body&quot;:&quot;The MASCS instrument was designed to study both the exosphere and surface of Mercury. To learn more about the minerals and surface processes on Mercury, the Visual and Infrared Spectrometer (VIRS) portion of MASCS has been diligently collecting single tracks of spectral surface measurements since MESSENGER entered orbit. Image Credit: NASA/Johns Hopkins University Applied Physics Laboratory/Carnegie Institution of Washington&quot;,&quot;link_text&quot;:&quot;&quot;,&quot;link&quot;:&quot;&quot;,&quot;more_link_text&quot;:&quot;&quot;,&quot;more_link&quot;:&quot;&quot;,&quot;status&quot;:1,&quot;created_at&quot;:&quot;2017-12-04T18:28:57.059-08:00&quot;,&quot;updated_at&quot;:&quot;2018-01-23T13:15:10.701-08:00&quot;,&quot;theme&quot;:null,&quot;textbox_category_title&quot;:&quot;&quot;,&quot;textbox_brand_title&quot;:null,&quot;feature_type&quot;:&quot;&quot;,&quot;image_alt&quot;:&quot;&quot;,&quot;webm_video_file_name&quot;:null,&quot;mp4_video_file_name&quot;:null,&quot;ogv_video_file_name&quot;:null,&quot;embed_video&quot;:&quot;&quot;,&quot;mobile_image_file_name&quot;:null,&quot;body_class&quot;:&quot;&quot;,&quot;schedule_date&quot;:null,&quot;link_target&quot;:null,&quot;more_link_target&quot;:null,&quot;mobile_video_file_name&quot;:null,&quot;short_description&quot;:null,&quot;feature_links&quot;:[],&quot;category_names&quot;:&quot;mercury_carousel left box&quot;,&quot;mobile_video_src&quot;:null,&quot;webp_image_src&quot;:null,&quot;image_src&quot;:&quot;/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbmxWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--af596434096af371213800251832d6942ba0a478/carousel_mercury_2.jpg?disposition=inline&quot;,&quot;ogv_video_src&quot;:null,&quot;mp4_video_src&quot;:null,&quot;webm_video_src&quot;:null},{&quot;id&quot;:74,&quot;image_file_name&quot;:&quot;mercury_carousel_2.jpg&quot;,&quot;title&quot;:&quot;Awesome Abedin&quot;,&quot;body&quot;:&quot;This mosaic of oblique images highlights the spectacular interior of Abedin crater. The crater floor is covered with once-molten rock  melted by the impact event that formed Abedin. Image Credit: NASA/Johns Hopkins University Applied Physics Laboratory/Carnegie Institution of Washington&quot;,&quot;link_text&quot;:&quot;&quot;,&quot;link&quot;:&quot;&quot;,&quot;more_link_text&quot;:&quot;&quot;,&quot;more_link&quot;:&quot;&quot;,&quot;status&quot;:1,&quot;created_at&quot;:&quot;2017-12-04T18:29:36.031-08:00&quot;,&quot;updated_at&quot;:&quot;2018-01-23T13:16:41.474-08:00&quot;,&quot;theme&quot;:null,&quot;textbox_category_title&quot;:&quot;&quot;,&quot;textbox_brand_title&quot;:null,&quot;feature_type&quot;:&quot;&quot;,&quot;image_alt&quot;:&quot;&quot;,&quot;webm_video_file_name&quot;:null,&quot;mp4_video_file_name&quot;:null,&quot;ogv_video_file_name&quot;:null,&quot;embed_video&quot;:&quot;&quot;,&quot;mobile_image_file_name&quot;:null,&quot;body_class&quot;:&quot;&quot;,&quot;schedule_date&quot;:null,&quot;link_target&quot;:null,&quot;more_link_target&quot;:null,&quot;mobile_video_file_name&quot;:null,&quot;short_description&quot;:null,&quot;feature_links&quot;:[],&quot;category_names&quot;:&quot;mercury_carousel left box&quot;,&quot;mobile_video_src&quot;:null,&quot;webp_image_src&quot;:null,&quot;image_src&quot;:&quot;/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbnBWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--00f94deb12d24ec0371d92da6201d23354cf9182/mercury_carousel_2.jpg?disposition=inline&quot;,&quot;ogv_video_src&quot;:null,&quot;mp4_video_src&quot;:null,&quot;webm_video_src&quot;:null},{&quot;id&quot;:75,&quot;image_file_name&quot;:&quot;mercury_carousel_1.jpg&quot;,&quot;title&quot;:&quot;From the First to the Last&quot;,&quot;body&quot;:&quot;On March 18, 2011, MESSENGER made history by becoming the first spacecraft ever to orbit Mercury. Eleven days later, the spacecraft captured the first image ever obtained from Mercury orbit, shown here on the left. Image Credit: NASA/Johns Hopkins University Applied Physics Laboratory/Carnegie Institution of Washington&quot;,&quot;link_text&quot;:&quot;&quot;,&quot;link&quot;:&quot;&quot;,&quot;more_link_text&quot;:&quot;&quot;,&quot;more_link&quot;:&quot;&quot;,&quot;status&quot;:1,&quot;created_at&quot;:&quot;2017-12-04T18:30:20.163-08:00&quot;,&quot;updated_at&quot;:&quot;2018-01-23T13:18:02.336-08:00&quot;,&quot;theme&quot;:null,&quot;textbox_category_title&quot;:&quot;&quot;,&quot;textbox_brand_title&quot;:null,&quot;feature_type&quot;:&quot;&quot;,&quot;image_alt&quot;:&quot;&quot;,&quot;webm_video_file_name&quot;:null,&quot;mp4_video_file_name&quot;:null,&quot;ogv_video_file_name&quot;:null,&quot;embed_video&quot;:&quot;&quot;,&quot;mobile_image_file_name&quot;:null,&quot;body_class&quot;:&quot;&quot;,&quot;schedule_date&quot;:null,&quot;link_target&quot;:null,&quot;more_link_target&quot;:null,&quot;mobile_video_file_name&quot;:null,&quot;short_description&quot;:null,&quot;feature_links&quot;:[],&quot;category_names&quot;:&quot;mercury_carousel left box&quot;,&quot;mobile_video_src&quot;:null,&quot;webp_image_src&quot;:null,&quot;image_src&quot;:&quot;/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbnRWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c08f9cef505726ff6246dc8566e70d451f799812/mercury_carousel_1.jpg?disposition=inline&quot;,&quot;ogv_video_src&quot;:null,&quot;mp4_video_src&quot;:null,&quot;webm_video_src&quot;:null},{&quot;id&quot;:76,&quot;image_file_name&quot;:&quot;mercury_carousel_5.jpg&quot;,&quot;title&quot;:&quot;A Shot in the Dark&quot;,&quot;body&quot;:&quot;The image shown here was acquired at 24 m/pixel, the highest resolution that has been obtained for any of Mercury&#39;s shadowed polar craters! Image Credit: NASA/Johns Hopkins University Applied Physics Laboratory/Carnegie Institution of Washington&quot;,&quot;link_text&quot;:&quot;&quot;,&quot;link&quot;:&quot;&quot;,&quot;more_link_text&quot;:&quot;&quot;,&quot;more_link&quot;:&quot;&quot;,&quot;status&quot;:1,&quot;created_at&quot;:&quot;2017-12-04T18:30:54.701-08:00&quot;,&quot;updated_at&quot;:&quot;2018-01-23T13:13:03.677-08:00&quot;,&quot;theme&quot;:null,&quot;textbox_category_title&quot;:&quot;&quot;,&quot;textbox_brand_title&quot;:null,&quot;feature_type&quot;:&quot;&quot;,&quot;image_alt&quot;:&quot;&quot;,&quot;webm_video_file_name&quot;:null,&quot;mp4_video_file_name&quot;:null,&quot;ogv_video_file_name&quot;:null,&quot;embed_video&quot;:&quot;&quot;,&quot;mobile_image_file_name&quot;:null,&quot;body_class&quot;:&quot;&quot;,&quot;schedule_date&quot;:null,&quot;link_target&quot;:null,&quot;more_link_target&quot;:null,&quot;mobile_video_file_name&quot;:null,&quot;short_description&quot;:null,&quot;feature_links&quot;:[],&quot;category_names&quot;:&quot;mercury_carousel left box&quot;,&quot;mobile_video_src&quot;:null,&quot;webp_image_src&quot;:null,&quot;image_src&quot;:&quot;/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbnhWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--edaa55905ef317feb0ecc0c10fff37dcc0b04e47/mercury_carousel_5.jpg?disposition=inline&quot;,&quot;ogv_video_src&quot;:null,&quot;mp4_video_src&quot;:null,&quot;webm_video_src&quot;:null}],&quot;ms_id&quot;:&quot;masterslider_9178&quot;,&quot;title&quot;:&quot;&quot;,&quot;image_carousel&quot;:false,&quot;autoplay&quot;:false,&quot;controls_persistence&quot;:false,&quot;split_slide_layers&quot;:false,&quot;options&quot;:null}" data-react-cache-id="ImageCarousel-0" class="ms_carousel carousel_module"></section>
+    </section>
+    
+    <span class="mb_anchor_title">Pop Culture<a class="mb_anchor" name="pop_culture"></a></span><p></p>
+    
+    <h2><b>Pop Culture</b></h2>
+    
+    <p>The smallest planet in our solar system has a big presence in our collective imagination. Scores of science fiction writers have been inspired by Mercury, including Isaac Asimov, C. S. Lewis, Ray Bradbury, Arthur C. Clarke, and H. P. Lovecraft. Television and film writers, too, have found the planet an ideal location for storytelling. In the animated television show &quot;Invader Zim,&quot; Mercury is turned into a prototype giant spaceship by the extinct Martians. And in the 2007 film &quot;Sunshine,&quot; the Icarus II spacecraft goes into orbit around Mercury to rendezvous with the Icarus I.</p>
+    
+    <p>In the comic strip &quot;Calvin and Hobbes,&quot; Calvin and his classmate Susie give a presentation about Mercury, in which Calvin&#39;s contribution is full of questionable information: &quot;The planet Mercury was named after a Roman god with winged feet,&quot; says Calvin. &quot;Mercury was the god of flowers and bouquets, which is why today he is a registered trademark of FTD florists. Why they named a planet after this guy, I can&#39;t imagine.&quot;</p>
+    <span class="mb_anchor_title">Kid-Friendly Mercury<a class="mb_anchor" name="kid-friendly_mercury"></a></span><p></p>
+    <section class='single_teaser module left'>
+    <div class='text_col'>
+    <h2 class='title'>
+    Mercury for Kids
+    </h2>
+    <div class='description'>
+    <p>Mercury is the smallest planet in our solar system. It&rsquo;s a little bigger than Earth&rsquo;s Moon. It is the closest planet to the Sun, but it&rsquo;s actually not the hottest.Venus is hotter.Along with Venus, Earth, and Mars, Mercury is one of the rocky planets. It has a solid surface that is covered with craters like our Moon. It has a thin atmosphere, and it doesn&rsquo;t have any moons. Mercury likes to keep things simple.</p>
+    Mercury spins slowly compared to Earth, so one day lasts a long time. Mercury takes 59 Earth days to make one full rotation. But a year on Mercury goes fast. Because it&rsquo;s the closest planet to the sun, it goes around the Sun in just 88 Earth days.</p>
+    
+</body>
+</html>
